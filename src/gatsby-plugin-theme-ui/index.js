@@ -2,11 +2,11 @@ export default {
   colors: {
     text: '#000000',
     background: '#fff',
-    primary: '##3498DB',
+    primary: '#21618C',
     accent: '#fff',
     muted: 'rgba(0, 0, 0, 0.7)',
     cardBg: '#fff',
-    borderColor:"##3498DB",
+    borderColor:"#21618C",
     labelText: "#777",
     inputBorder: "#aaa",
     inputBackground: "#fff",
