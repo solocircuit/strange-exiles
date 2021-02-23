@@ -3,7 +3,7 @@
     "title": "Strangers & Exiles",
     "titleTemplate": "%s",
     "description": "",
-    "siteUrl": "strangersandexiles.org",
+    "siteUrl": "https://strange-exiles.netlify.app",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": ""
