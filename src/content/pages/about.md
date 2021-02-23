@@ -1,50 +1,42 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About Us
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+## 👋 Welcome to Strangers & Exiles.
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+We want to create and share Bible based educational content that can be enjoyed by all followers of Christ.
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+However, with the current climate we find ourselves in we are trying to create a system that is relatively censorship-resistant and one that can stand up against deplatforming.
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
+Therefore, we are attempting to create this site using simple web technologies for easy deployment on any platform and if necessary used for quick replication. This site might look complex but is nothing more than a basic text document, which in theory would help should the site every be taken down since it can be uploaded anywhere easily **(even using IPFS if needed)**.
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+![]()
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+We are wanting to preserve the rich written history of Christian voices that have come and gone across its two millennia of existence, people who believed that Jesus was and is the only way to heaven in this life and the next.
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+##### Their stories, lives, and testimonies are precious before God and should not be forgotten and should not be erased.
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+The resources listed here will be invaluable to anyone's Christian journey and greatly needed for the times ahead.
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+ It's just as the Lord Jesus told us in 2 Timothy 3:1 
 
-* You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-* And when we woke up, we had these bodies.
-* Spare me your space age technobabble, Attila the Hun!
+> ###### But understand this, that in the last days difficult times will come.
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+Let us not forget the promise given to us in John 16:33
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+> ###### I have told you these things so that in me you may have peace. You will have suffering in this world. Be courageous! I have conquered the world.
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+This world will try erasing all evidence of the truth, relegating it be forgotten to the dust bin of history.  
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+> ###### Every record has been destroyed or falsified, every book rewritten, every picture has been repainted, every statue and street building has been renamed, every date has been altered. And the process is continuing day by day and minute by minute. History has stopped. Nothing exists, except for an endless present in which the Party is always right.
+>
+> ###### The past was erased, the erasure was forgotten, the lie became the truth.
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+\- George Orwell
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+However, we have a promise, that God has given us for a hope and future. Hebrews 12:22-24 & Revelation 3:12
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
-
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
-
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
-
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+> ###### Instead, you have come to Mount Zion, to the city of the living God (the heavenly Jerusalem), to myriads of angels, a festive gathering, to the assembly of the firstborn whose names have been written in heaven, to a Judge, who is God of all, to the spirits of righteous people made perfect, and to Jesus, the mediator of a new covenant. . .
+>
+> ###### The one who conquers I will make a pillar in the temple of my God, and he will never go out again. I will write on him the name of my God and the name of the city of my God—the new Jerusalem, which comes down out of heaven from my God—and my new name.
