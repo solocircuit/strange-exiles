@@ -1,7 +1,7 @@
 export default {
   colors: {
     text: '#000000',
-    background: '#fff',
+    background: '#000000',
     primary: '#EAEAEA',
     accent: '#fff',
     muted: 'rgba(0, 0, 0, 0.7)',
