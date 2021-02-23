@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Strangers & Exiles
 tagline: 1 Peter 2:11
-featuredImage: /assets/nathan-dumlao-1xwvmneiyky-unsplash.jpg
+featuredImage: /assets/luis-vidal-x_6w916_34y-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
