@@ -1,12 +1,12 @@
 export default {
   colors: {
     text: '#000000',
-    background: '#000000',
-    primary: '#EAEAEA',
+    background: '#fff',
+    primary: '##3498DB',
     accent: '#fff',
     muted: 'rgba(0, 0, 0, 0.7)',
     cardBg: '#fff',
-    borderColor:"#EAEAEA",
+    borderColor:"##3498DB",
     labelText: "#777",
     inputBorder: "#aaa",
     inputBackground: "#fff",
