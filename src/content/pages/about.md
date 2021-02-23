@@ -11,11 +11,11 @@ However, with the current climate we find ourselves in we are trying to create 
 
 Therefore, we are attempting to create this site using simple web technologies for easy deployment on any platform and if necessary used for quick replication. This site might look complex but is nothing more than a basic text document, which in theory would help should the site every be taken down since it can be uploaded anywhere easily **(even using IPFS if needed)**.
 
-![]()
+![](/assets/annie-spratt-a-g8fsddqc0-unsplash.jpg)
 
 We are wanting to preserve the rich written history of Christian voices that have come and gone across its two millennia of existence, people who believed that Jesus was and is the only way to heaven in this life and the next.
 
-##### Their stories, lives, and testimonies are precious before God and should not be forgotten and should not be erased.
+#### Their stories, lives, and testimonies are precious before God and should not be forgotten and should not be erased.
 
 The resources listed here will be invaluable to anyone's Christian journey and greatly needed for the times ahead.
 
