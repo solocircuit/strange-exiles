@@ -28,7 +28,7 @@ Author: John Bunyan
 Language: English
 
 ### Table of Contents
-```
+
 [Table of Contents](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#title-grace-abounding-to-the-chief-of-sinners)
 [PREFATORY NOTE](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#a-preface)
 [GRACE ABOUNDING TO THE CHIEF OF SINNERS](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#grace-abounding-to-the-chief-of-sinners)
@@ -39,7 +39,7 @@ Language: English
 [A CONTINUATION OF THE AUTHOR’S LIFE](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#a-continuation-of-mr-bunyans-life)
 [A BRIEF CHARACTER OF THE AUTHOR](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#a-brief-character-of-mr-john-bunyan)
 [POSTSCRIPT](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#epilogue)
-```
+
 
 
 ***START OF THE PROJECT GUTENBERG EBOOK GRACE ABOUNDING TO THE CHIEF OF
