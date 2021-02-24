@@ -29,45 +29,44 @@ Language: English
 
 ### Table of Contents
 
- - [Table of Contents](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#title-grace-abounding-to-the-chief-of-sinners)
+ - [Table of Contents](#title-grace-abounding-to-the-chief-of-sinners)
 
    
 
- 1. [PREFATORY NOTE](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#a-preface)
- 2. [GRACE ABOUNDING TO THE CHIEF OF   
-    SINNERS](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#grace-abounding-to-the-chief-of-sinners)
+ 1. [PREFATORY NOTE](#a-preface)
+ 2. [GRACE ABOUNDING TO THE CHIEF OF SINNERS](#grace-abounding-to-the-chief-of-sinners)
 
   
 
  - [A Brief Account of the Author’s Call to the Work of the   
-   Ministry](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#a-brief-account-of-the-authors-call-to-the-work-of-the-ministry)
+   Ministry](#a-brief-account-of-the-authors-call-to-the-work-of-the-ministry)
 
   
 
  - [A Brief Account of the Author’s   
-   Imprisonment](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#a-brief-account-of-the-authors-imprisonment)
+   Imprisonment](#a-brief-account-of-the-authors-imprisonment)
 
  
 
- - [The Conclusion](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#the-conclusion)
+ - [The Conclusion](#the-conclusion)
 
   
 
  3. [A RELATION OF THE IMPRISONMENT OF THE AUTHOR IN THE MONTH OF   
-    NOVEMBER 1660](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#a-relation-of-my-imprisonment-in-the-month-of-november-1660)
+    NOVEMBER 1660](#a-relation-of-my-imprisonment-in-the-month-of-november-1660)
 
  
 
- 4. [A CONTINUATION OF THE AUTHOR’S LIFE](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#a-continuation-of-mr-bunyans-life)
+ 4. [A CONTINUATION OF THE AUTHOR’S LIFE](#a-continuation-of-mr-bunyans-life)
 
    
 
  5. [A BRIEF CHARACTER OF THE   
-    AUTHOR](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#a-brief-character-of-mr-john-bunyan)
+    AUTHOR](#a-brief-character-of-mr-john-bunyan)
 
    
 
- 6. [POSTSCRIPT](https://github.com/solocircuit/strange-exiles/blob/main/src/content/posts/2021-02-24-grace-abounding-to-the-chief-of-sinners-by-john-bunyan.md#epilogue)
+ 6. [POSTSCRIPT](#epilogue)
 
 
 
