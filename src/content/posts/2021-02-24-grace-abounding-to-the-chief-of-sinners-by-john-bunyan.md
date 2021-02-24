@@ -12,7 +12,7 @@ description: This spiritual classic, originally published in 1666, is in some
   become spiritual food for countless others.
 featuredImage: /assets/bunyan-john-sadler_detail-1002x1024.jpg
 ---
-[Download The Book](http://www.gutenberg.org/ebooks/654) [Torrent From Archive.org](https://archive.org/download/graceaboundingto1903buny/graceaboundingto1903buny_archive.torrent)
+[Download The Book](http://www.gutenberg.org/ebooks/654) | [Torrent From Archive.org](https://archive.org/download/graceaboundingto1903buny/graceaboundingto1903buny_archive.torrent)
 
 The Project Gutenberg eBook, Grace Abounding to the Chief of Sinners, by
 John Bunyan, Illustrated by Harold Copping
