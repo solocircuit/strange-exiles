@@ -128,7 +128,7 @@ A CONTINUATION OF THE AUTHOR’S LIFE                                229
 A BRIEF CHARACTER OF THE AUTHOR                                    241
 POSTSCRIPT                                                         243
 
-## A PREFACE
+## <a name="a-preface"></a>A PREFACE
 
 OR, BRIEF ACCOUNT OF THE PUBLISHING THIS WORK.  WRITTEN BY THE AUTHOR
 THEREOF, AND DEDICATED TO THOSE WHOM GOD HATH COUNTED HIM WORTHY TO BEGET
@@ -246,7 +246,7 @@ you*, *and grant that you be not slothful to go in to possess the land*.
                                                           JOHN BUNYAN.
 ```
 
-## GRACE ABOUNDING TO THE CHIEF OF SINNERS
+## <a name="grace-abounding-to-the-chief-of-sinners"></a>GRACE ABOUNDING TO THE CHIEF OF SINNERS
 
 A BRIEF RELATION OF THE EXCEEDING MERCY OF GOD IN CHRIST, TO HIS POOR
 SERVANT, JOHN BUNYAN
@@ -2849,7 +2849,7 @@ upon me, it would have made me incapable for business.
 
 _
 
-## A brief Account of the Author’s Call to the Work of the Ministry
+## <a name="a-brief-account-of-the-authors-call-to-the-work-of-the-ministry"></a>A brief Account of the Author’s Call to the Work of the Ministry
 
 _
 
@@ -3279,7 +3279,7 @@ _
      world terrified, and made afraid to hear me preach; of which I shall in
      the next place give you a brief account.
 
-## A BRIEF ACCOUNT OF THE AUTHOR’S IMPRISONMENT
+## <a name="a-brief-account-of-the-authors-imprisonment"></a>A BRIEF ACCOUNT OF THE AUTHOR’S IMPRISONMENT
 
 318. Having made profession of the glorious gospel of Christ a long
      time, and preached the same about five years, I was apprehended at a
@@ -3493,7 +3493,7 @@ _
      relate, *But these out of the spoils won in battle I have dedicated to
      maintain the house of God*.  1 Chron. xxvi. 27.
 
-## THE CONCLUSION
+## <a name="the-conclusion"></a>THE CONCLUSION
 
 1. OF all the temptations that ever I met with in my life, to question
    the being of God, and truth of His gospel is the worst, and the worst to
@@ -3540,7 +3540,7 @@ _
    provoke me to pray unto God, through Christ, to help me, and carry me
    through this world.
 
-## A RELATION OF MY IMPRISONMENT IN THE MONTH OF NOVEMBER 1660
+## <a name="a-relation-of-my-imprisonment-in-the-month-of-november-1660"></a>A RELATION OF MY IMPRISONMENT IN THE MONTH OF NOVEMBER 1660
 
 WHEN, by the good hand of my God, I had for five or six years together,
 without any interruption, freely preached the blessed gospel of our Lord
@@ -4702,7 +4702,7 @@ Farewell.
 
 <span class="smcap">John Bunyan</span>.
 
-## A Continuation of Mr <span class="smcap">Bunyan’s Life
+## <a name="a-continuation-of-mr-bunyans-life"></a>A Continuation of Mr <span class="smcap">Bunyan’s Life
 
 </span>; *beginning where he left off*, *and concluding with the Time and Manner of his Death and Burial*: *together with his true Character*, *etc.*
 
@@ -4972,7 +4972,7 @@ their head, and reign with Him as kings and priests for ever.
 
 #### \*
 
-## A brief Character of Mr <span class="smcap">John Bunyan
+## <a name="a-brief-character-of-mr-john-bunyan"></a>A brief Character of Mr <span class="smcap">John Bunyan
 
 </span>
 
@@ -5003,7 +5003,7 @@ prosperity, nor shaken in adversity; always holding the golden mean.
 
 [](654-h.html)<span class="pagenum">p. 243 </span>
 
-# Epilogue
+# <a name="epilogue"></a>Epilogue
 
 <span class="smcap">In</span> this his pilgrimage, God blessed him with
 four children, one of which, named *Mary*, was blind, and died some
